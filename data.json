@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "armon/erl-bloomd",
+    "stargazers_count": 8,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
     "full_name": "armon/bloomd",
     "stargazers_count": 1203,
     "open_issues_count": 10,
