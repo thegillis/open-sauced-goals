@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "avdi/dotenv_elixir",
+    "stargazers_count": 203,
+    "open_issues_count": 8,
+    "forks_count": 24
+  },
+  {
+    "full_name": "checkr/flagr",
+    "stargazers_count": 1941,
+    "open_issues_count": 78,
+    "forks_count": 156
+  },
+  {
+    "full_name": "armon/bloomd",
+    "stargazers_count": 1203,
+    "open_issues_count": 10,
+    "forks_count": 113
+  },
+  {
+    "full_name": "localstack/localstack",
+    "stargazers_count": 42119,
+    "open_issues_count": 368,
+    "forks_count": 3139
+  },
+  {
+    "full_name": "sethhillbrand/kicad_templates",
+    "stargazers_count": 303,
+    "open_issues_count": 4,
+    "forks_count": 52
+  },
+  {
+    "full_name": "potatosalad/erlang-jose",
+    "stargazers_count": 255,
+    "open_issues_count": 21,
+    "forks_count": 80
+  },
+  {
+    "full_name": "Arno0x/DNSExfiltrator",
+    "stargazers_count": 723,
+    "open_issues_count": 5,
+    "forks_count": 171
+  },
+  {
+    "full_name": "pow-auth/pow_assent",
+    "stargazers_count": 276,
+    "open_issues_count": 26,
+    "forks_count": 40
+  },
+  {
+    "full_name": "fchollet/deep-learning-with-python-notebooks",
+    "stargazers_count": 15632,
+    "open_issues_count": 153,
+    "forks_count": 7665
+  },
+  {
+    "full_name": "sorentwo/oban",
+    "stargazers_count": 2277,
+    "open_issues_count": 5,
+    "forks_count": 212
+  },
+  {
+    "full_name": "cjbassi/gotop",
+    "stargazers_count": 7231,
+    "open_issues_count": 73,
+    "forks_count": 391
+  },
+  {
+    "full_name": "FredrikNoren/ungit",
+    "stargazers_count": 10007,
+    "open_issues_count": 213,
+    "forks_count": 666
+  },
+  {
+    "full_name": "vim-syntastic/syntastic",
+    "stargazers_count": 11226,
+    "open_issues_count": 46,
+    "forks_count": 1167
+  },
+  {
+    "full_name": "trailofbits/algo",
+    "stargazers_count": 25779,
+    "open_issues_count": 129,
+    "forks_count": 2130
+  },
+  {
+    "full_name": "Accenture/reactive-interaction-gateway",
+    "stargazers_count": 526,
+    "open_issues_count": 76,
+    "forks_count": 64
+  },
+  {
+    "full_name": "asdf-vm/asdf",
+    "stargazers_count": 15015,
+    "open_issues_count": 119,
+    "forks_count": 587
+  },
+  {
+    "full_name": "mrluc/peerage",
+    "stargazers_count": 374,
+    "open_issues_count": 4,
+    "forks_count": 20
+  },
+  {
+    "full_name": "leifg/docker-elixir",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ueberauth/ueberauth",
+    "stargazers_count": 1411,
+    "open_issues_count": 20,
+    "forks_count": 103
+  },
+  {
+    "full_name": "StephenGrider/ElixirCode",
+    "stargazers_count": 932,
+    "open_issues_count": 6,
+    "forks_count": 307
+  },
+  {
+    "full_name": "discord/semaphore",
+    "stargazers_count": 656,
+    "open_issues_count": 4,
+    "forks_count": 42
+  },
+  {
+    "full_name": "discord/fastglobal",
+    "stargazers_count": 991,
+    "open_issues_count": 10,
+    "forks_count": 52
+  },
+  {
+    "full_name": "discord/manifold",
+    "stargazers_count": 1474,
+    "open_issues_count": 0,
+    "forks_count": 54
+  },
+  {
+    "full_name": "ueberauth/guardian",
+    "stargazers_count": 3208,
+    "open_issues_count": 4,
+    "forks_count": 361
+  },
+  {
+    "full_name": "Recruitee/mix_docker",
+    "stargazers_count": 336,
+    "open_issues_count": 15,
+    "forks_count": 51
+  },
+  {
+    "full_name": "poteto/terraform",
+    "stargazers_count": 398,
+    "open_issues_count": 2,
+    "forks_count": 14
+  },
+  {
+    "full_name": "styled-components/styled-components",
+    "stargazers_count": 37005,
+    "open_issues_count": 109,
+    "forks_count": 2312
+  },
+  {
+    "full_name": "rubocop/ruby-style-guide",
+    "stargazers_count": 16023,
+    "open_issues_count": 59,
+    "forks_count": 3431
+  },
+  {
+    "full_name": "mars/create-react-app-buildpack",
+    "stargazers_count": 3335,
+    "open_issues_count": 14,
+    "forks_count": 646
+  },
+  {
+    "full_name": "hobby-kube/guide",
+    "stargazers_count": 5227,
+    "open_issues_count": 12,
+    "forks_count": 252
+  }
+]
