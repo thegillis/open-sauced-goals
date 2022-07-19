@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 725,
+    "open_issues_count": 16,
+    "forks_count": 319
+  },
+  {
     "full_name": "avdi/dotenv_elixir",
     "stargazers_count": 203,
     "open_issues_count": 8,
@@ -172,11 +178,5 @@
     "stargazers_count": 3335,
     "open_issues_count": 14,
     "forks_count": 646
-  },
-  {
-    "full_name": "hobby-kube/guide",
-    "stargazers_count": 5227,
-    "open_issues_count": 12,
-    "forks_count": 252
   }
 ]
