@@ -1,21 +1,21 @@
 [
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 107,
-    "open_issues_count": 83,
-    "forks_count": 24
+    "stargazers_count": 108,
+    "open_issues_count": 84,
+    "forks_count": 26
   },
   {
     "full_name": "ChristianChiarulli/lvim",
-    "stargazers_count": 194,
+    "stargazers_count": 196,
     "open_issues_count": 9,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 14880,
+    "stargazers_count": 14912,
     "open_issues_count": 3,
-    "forks_count": 2105
+    "forks_count": 2110
   },
   {
     "full_name": "stashpad/bb2stashpad",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 862,
+    "stargazers_count": 863,
     "open_issues_count": 9,
-    "forks_count": 591
+    "forks_count": 592
   },
   {
     "full_name": "avdi/dotenv_elixir",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2134,
+    "stargazers_count": 2135,
     "open_issues_count": 3,
-    "forks_count": 165
+    "forks_count": 166
   },
   {
     "full_name": "armon/bloomd",
-    "stargazers_count": 1224,
+    "stargazers_count": 1226,
     "open_issues_count": 3,
     "forks_count": 116
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 46770,
-    "open_issues_count": 360,
-    "forks_count": 3553
+    "stargazers_count": 46822,
+    "open_issues_count": 363,
+    "forks_count": 3559
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 5,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "potatosalad/erlang-jose",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 16657,
+    "stargazers_count": 16671,
     "open_issues_count": 161,
-    "forks_count": 8113
+    "forks_count": 8117
   },
   {
     "full_name": "sorentwo/oban",
-    "stargazers_count": 2557,
-    "open_issues_count": 11,
+    "stargazers_count": 2560,
+    "open_issues_count": 8,
     "forks_count": 251
   },
   {
     "full_name": "cjbassi/gotop",
-    "stargazers_count": 7301,
+    "stargazers_count": 7299,
     "open_issues_count": 73,
     "forks_count": 413
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10187,
+    "stargazers_count": 10186,
     "open_issues_count": 217,
     "forks_count": 674
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 27115,
-    "open_issues_count": 152,
-    "forks_count": 2249
+    "stargazers_count": 27124,
+    "open_issues_count": 153,
+    "forks_count": 2250
   },
   {
     "full_name": "Accenture/reactive-interaction-gateway",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 17286,
+    "stargazers_count": 17312,
     "open_issues_count": 129,
     "forks_count": 650
   },
@@ -139,31 +139,31 @@
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1469,
-    "open_issues_count": 24,
+    "stargazers_count": 1471,
+    "open_issues_count": 25,
     "forks_count": 113
   },
   {
     "full_name": "StephenGrider/ElixirCode",
-    "stargazers_count": 1005,
+    "stargazers_count": 1006,
     "open_issues_count": 6,
     "forks_count": 330
   },
   {
     "full_name": "discord/semaphore",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 3,
     "forks_count": 47
   },
   {
     "full_name": "discord/fastglobal",
-    "stargazers_count": 1059,
+    "stargazers_count": 1060,
     "open_issues_count": 12,
     "forks_count": 65
   },
   {
     "full_name": "discord/manifold",
-    "stargazers_count": 1569,
+    "stargazers_count": 1573,
     "open_issues_count": 0,
     "forks_count": 61
   },
@@ -171,7 +171,7 @@
     "full_name": "ueberauth/guardian",
     "stargazers_count": 3311,
     "open_issues_count": 9,
-    "forks_count": 371
+    "forks_count": 372
   },
   {
     "full_name": "Recruitee/mix_docker",
