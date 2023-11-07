@@ -1,21 +1,21 @@
 [
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 226,
-    "open_issues_count": 158,
+    "stargazers_count": 229,
+    "open_issues_count": 169,
     "forks_count": 126
   },
   {
     "full_name": "ChristianChiarulli/lvim",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 10,
     "forks_count": 86
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15392,
+    "stargazers_count": 15397,
     "open_issues_count": 3,
-    "forks_count": 2246
+    "forks_count": 2247
   },
   {
     "full_name": "stashpad/bb2stashpad",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 895,
+    "stargazers_count": 896,
     "open_issues_count": 0,
-    "forks_count": 750
+    "forks_count": 751
   },
   {
     "full_name": "avdi/dotenv_elixir",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2265,
-    "open_issues_count": 5,
-    "forks_count": 184
+    "stargazers_count": 2271,
+    "open_issues_count": 6,
+    "forks_count": 185
   },
   {
     "full_name": "armon/bloomd",
     "stargazers_count": 1233,
     "open_issues_count": 3,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 49830,
-    "open_issues_count": 412,
-    "forks_count": 3749
+    "stargazers_count": 49889,
+    "open_issues_count": 413,
+    "forks_count": 3755
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
@@ -62,14 +62,14 @@
   {
     "full_name": "potatosalad/erlang-jose",
     "stargazers_count": 284,
-    "open_issues_count": 28,
-    "forks_count": 92
+    "open_issues_count": 29,
+    "forks_count": 93
   },
   {
     "full_name": "Arno0x/DNSExfiltrator",
-    "stargazers_count": 795,
+    "stargazers_count": 794,
     "open_issues_count": 5,
-    "forks_count": 189
+    "forks_count": 188
   },
   {
     "full_name": "pow-auth/pow_assent",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 17323,
+    "stargazers_count": 17341,
     "open_issues_count": 170,
     "forks_count": 8358
   },
   {
     "full_name": "sorentwo/oban",
-    "stargazers_count": 2745,
+    "stargazers_count": 2747,
     "open_issues_count": 6,
     "forks_count": 269
   },
   {
     "full_name": "cjbassi/gotop",
-    "stargazers_count": 7322,
+    "stargazers_count": 7324,
     "open_issues_count": 73,
     "forks_count": 461
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10261,
+    "stargazers_count": 10263,
     "open_issues_count": 223,
     "forks_count": 677
   },
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 27756,
-    "open_issues_count": 168,
-    "forks_count": 2321
+    "stargazers_count": 27768,
+    "open_issues_count": 170,
+    "forks_count": 2326
   },
   {
     "full_name": "Accenture/reactive-interaction-gateway",
-    "stargazers_count": 569,
-    "open_issues_count": 55,
-    "forks_count": 65
+    "stargazers_count": 570,
+    "open_issues_count": 56,
+    "forks_count": 66
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 18880,
+    "stargazers_count": 18919,
     "open_issues_count": 165,
     "forks_count": 750
   },
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1520,
+    "stargazers_count": 1521,
     "open_issues_count": 28,
     "forks_count": 117
   },
   {
     "full_name": "StephenGrider/ElixirCode",
-    "stargazers_count": 1046,
+    "stargazers_count": 1048,
     "open_issues_count": 6,
     "forks_count": 335
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "discord/fastglobal",
-    "stargazers_count": 1102,
+    "stargazers_count": 1104,
     "open_issues_count": 12,
     "forks_count": 75
   },
   {
     "full_name": "discord/manifold",
-    "stargazers_count": 1634,
+    "stargazers_count": 1637,
     "open_issues_count": 0,
     "forks_count": 67
   },
