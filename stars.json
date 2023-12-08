@@ -1,21 +1,21 @@
 [
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 255,
-    "open_issues_count": 203,
-    "forks_count": 138
+    "stargazers_count": 256,
+    "open_issues_count": 206,
+    "forks_count": 139
   },
   {
     "full_name": "ChristianChiarulli/lvim",
-    "stargazers_count": 266,
+    "stargazers_count": 268,
     "open_issues_count": 10,
-    "forks_count": 88
+    "forks_count": 89
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15435,
+    "stargazers_count": 15436,
     "open_issues_count": 3,
-    "forks_count": 2261
+    "forks_count": 2266
   },
   {
     "full_name": "stashpad/bb2stashpad",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2290,
+    "stargazers_count": 2292,
     "open_issues_count": 5,
     "forks_count": 186
   },
   {
     "full_name": "armon/bloomd",
-    "stargazers_count": 1234,
+    "stargazers_count": 1233,
     "open_issues_count": 3,
     "forks_count": 162
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 50374,
-    "open_issues_count": 418,
-    "forks_count": 3825
+    "stargazers_count": 50425,
+    "open_issues_count": 414,
+    "forks_count": 3827
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
@@ -62,12 +62,12 @@
   {
     "full_name": "potatosalad/erlang-jose",
     "stargazers_count": 290,
-    "open_issues_count": 31,
+    "open_issues_count": 28,
     "forks_count": 95
   },
   {
     "full_name": "Arno0x/DNSExfiltrator",
-    "stargazers_count": 799,
+    "stargazers_count": 800,
     "open_issues_count": 5,
     "forks_count": 190
   },
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 17406,
+    "stargazers_count": 17410,
     "open_issues_count": 170,
-    "forks_count": 8397
+    "forks_count": 8399
   },
   {
     "full_name": "sorentwo/oban",
-    "stargazers_count": 2833,
-    "open_issues_count": 4,
-    "forks_count": 273
+    "stargazers_count": 2837,
+    "open_issues_count": 3,
+    "forks_count": 274
   },
   {
     "full_name": "cjbassi/gotop",
     "stargazers_count": 7331,
     "open_issues_count": 73,
-    "forks_count": 475
+    "forks_count": 476
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10274,
+    "stargazers_count": 10276,
     "open_issues_count": 223,
-    "forks_count": 677
+    "forks_count": 678
   },
   {
     "full_name": "vim-syntastic/syntastic",
-    "stargazers_count": 11312,
+    "stargazers_count": 11313,
     "open_issues_count": 50,
     "forks_count": 1149
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 27855,
-    "open_issues_count": 171,
-    "forks_count": 2338
+    "stargazers_count": 27862,
+    "open_issues_count": 167,
+    "forks_count": 2339
   },
   {
     "full_name": "Accenture/reactive-interaction-gateway",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 19150,
-    "open_issues_count": 170,
-    "forks_count": 759
+    "stargazers_count": 19191,
+    "open_issues_count": 171,
+    "forks_count": 760
   },
   {
     "full_name": "mrluc/peerage",
@@ -141,17 +141,17 @@
     "full_name": "ueberauth/ueberauth",
     "stargazers_count": 1525,
     "open_issues_count": 29,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "StephenGrider/ElixirCode",
-    "stargazers_count": 1053,
+    "stargazers_count": 1055,
     "open_issues_count": 6,
     "forks_count": 336
   },
   {
     "full_name": "discord/semaphore",
-    "stargazers_count": 716,
+    "stargazers_count": 717,
     "open_issues_count": 4,
     "forks_count": 49
   },
@@ -165,13 +165,13 @@
     "full_name": "discord/manifold",
     "stargazers_count": 1649,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "ueberauth/guardian",
     "stargazers_count": 3344,
     "open_issues_count": 5,
-    "forks_count": 376
+    "forks_count": 377
   },
   {
     "full_name": "Recruitee/mix_docker",
