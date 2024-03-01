@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 310,
-    "open_issues_count": 259,
-    "forks_count": 175
+    "stargazers_count": 314,
+    "open_issues_count": 264,
+    "forks_count": 177
   },
   {
     "full_name": "ChristianChiarulli/lvim",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15533,
+    "stargazers_count": 15534,
     "open_issues_count": 3,
-    "forks_count": 2271
+    "forks_count": 2272
   },
   {
     "full_name": "stashpad/bb2stashpad",
@@ -27,19 +27,19 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 914,
     "open_issues_count": 0,
-    "forks_count": 839
+    "forks_count": 841
   },
   {
     "full_name": "avdi/dotenv_elixir",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 8,
     "forks_count": 28
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2330,
+    "stargazers_count": 2335,
     "open_issues_count": 2,
-    "forks_count": 188
+    "forks_count": 181
   },
   {
     "full_name": "armon/bloomd",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 51431,
-    "open_issues_count": 355,
-    "forks_count": 3763
+    "stargazers_count": 51468,
+    "open_issues_count": 360,
+    "forks_count": 3765
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
@@ -67,63 +67,63 @@
   },
   {
     "full_name": "Arno0x/DNSExfiltrator",
-    "stargazers_count": 818,
+    "stargazers_count": 819,
     "open_issues_count": 5,
     "forks_count": 191
   },
   {
     "full_name": "pow-auth/pow_assent",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 25,
     "forks_count": 48
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 17624,
+    "stargazers_count": 17636,
     "open_issues_count": 171,
-    "forks_count": 8387
+    "forks_count": 8388
   },
   {
     "full_name": "sorentwo/oban",
-    "stargazers_count": 2958,
-    "open_issues_count": 6,
+    "stargazers_count": 2962,
+    "open_issues_count": 5,
     "forks_count": 286
   },
   {
     "full_name": "cjbassi/gotop",
-    "stargazers_count": 7334,
+    "stargazers_count": 7335,
     "open_issues_count": 73,
-    "forks_count": 431
+    "forks_count": 430
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10302,
+    "stargazers_count": 10303,
     "open_issues_count": 224,
     "forks_count": 637
   },
   {
     "full_name": "vim-syntastic/syntastic",
-    "stargazers_count": 11309,
+    "stargazers_count": 11307,
     "open_issues_count": 50,
-    "forks_count": 1139
+    "forks_count": 1138
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 28138,
+    "stargazers_count": 28149,
     "open_issues_count": 177,
-    "forks_count": 2272
+    "forks_count": 2273
   },
   {
     "full_name": "Accenture/reactive-interaction-gateway",
-    "stargazers_count": 580,
+    "stargazers_count": 581,
     "open_issues_count": 55,
     "forks_count": 67
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 19852,
-    "open_issues_count": 167,
-    "forks_count": 738
+    "stargazers_count": 19900,
+    "open_issues_count": 169,
+    "forks_count": 739
   },
   {
     "full_name": "mrluc/peerage",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1539,
-    "open_issues_count": 29,
+    "stargazers_count": 1538,
+    "open_issues_count": 26,
     "forks_count": 121
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "discord/semaphore",
-    "stargazers_count": 722,
+    "stargazers_count": 723,
     "open_issues_count": 4,
-    "forks_count": 49
+    "forks_count": 46
   },
   {
     "full_name": "discord/fastglobal",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "discord/manifold",
-    "stargazers_count": 1685,
-    "open_issues_count": 0,
+    "stargazers_count": 1686,
+    "open_issues_count": 1,
     "forks_count": 65
   },
   {
     "full_name": "ueberauth/guardian",
-    "stargazers_count": 3368,
+    "stargazers_count": 3369,
     "open_issues_count": 5,
     "forks_count": 378
   },
