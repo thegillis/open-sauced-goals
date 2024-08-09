@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tompave/fun_with_flags",
-    "stargazers_count": 1043,
-    "open_issues_count": 9,
-    "forks_count": 78
+    "stargazers_count": 1046,
+    "open_issues_count": 5,
+    "forks_count": 79
   },
   {
     "full_name": "lulzbot3d/Marlin",
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 21584,
-    "open_issues_count": 612,
-    "forks_count": 2431
+    "stargazers_count": 21591,
+    "open_issues_count": 615,
+    "forks_count": 2430
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 398,
-    "open_issues_count": 329,
-    "forks_count": 209
+    "stargazers_count": 401,
+    "open_issues_count": 330,
+    "forks_count": 208
   },
   {
     "full_name": "ChristianChiarulli/lvim",
-    "stargazers_count": 283,
+    "stargazers_count": 284,
     "open_issues_count": 10,
-    "forks_count": 91
+    "forks_count": 93
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15654,
+    "stargazers_count": 15656,
     "open_issues_count": 3,
     "forks_count": 2301
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 927,
+    "stargazers_count": 928,
     "open_issues_count": 0,
     "forks_count": 946
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2397,
+    "stargazers_count": 2399,
     "open_issues_count": 4,
     "forks_count": 183
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 53267,
-    "open_issues_count": 333,
-    "forks_count": 3870
+    "stargazers_count": 53289,
+    "open_issues_count": 339,
+    "forks_count": 3876
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
@@ -80,8 +80,8 @@
   {
     "full_name": "potatosalad/erlang-jose",
     "stargazers_count": 306,
-    "open_issues_count": 35,
-    "forks_count": 100
+    "open_issues_count": 33,
+    "forks_count": 101
   },
   {
     "full_name": "Arno0x/DNSExfiltrator",
@@ -91,32 +91,32 @@
   },
   {
     "full_name": "pow-auth/pow_assent",
-    "stargazers_count": 319,
+    "stargazers_count": 318,
     "open_issues_count": 27,
     "forks_count": 50
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 18000,
+    "stargazers_count": 18012,
     "open_issues_count": 176,
-    "forks_count": 8495
+    "forks_count": 8499
   },
   {
     "full_name": "sorentwo/oban",
-    "stargazers_count": 3199,
-    "open_issues_count": 5,
-    "forks_count": 300
+    "stargazers_count": 3204,
+    "open_issues_count": 4,
+    "forks_count": 301
   },
   {
     "full_name": "cjbassi/gotop",
     "stargazers_count": 7355,
     "open_issues_count": 73,
-    "forks_count": 434
+    "forks_count": 435
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10425,
-    "open_issues_count": 227,
+    "stargazers_count": 10427,
+    "open_issues_count": 228,
     "forks_count": 637
   },
   {
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 28575,
-    "open_issues_count": 180,
-    "forks_count": 2314
+    "stargazers_count": 28576,
+    "open_issues_count": 181,
+    "forks_count": 2316
   },
   {
     "full_name": "Accenture/reactive-interaction-gateway",
-    "stargazers_count": 590,
+    "stargazers_count": 591,
     "open_issues_count": 55,
-    "forks_count": 66
+    "forks_count": 65
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 21312,
+    "stargazers_count": 21330,
     "open_issues_count": 197,
-    "forks_count": 766
+    "forks_count": 768
   },
   {
     "full_name": "mrluc/peerage",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "ueberauth/ueberauth",
-    "stargazers_count": 1586,
+    "stargazers_count": 1587,
     "open_issues_count": 26,
     "forks_count": 120
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "discord/fastglobal",
-    "stargazers_count": 1134,
+    "stargazers_count": 1135,
     "open_issues_count": 12,
     "forks_count": 81
   }
