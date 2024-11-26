@@ -1,9 +1,9 @@
 [
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2436,
-    "open_issues_count": 8,
-    "forks_count": 186
+    "stargazers_count": 2437,
+    "open_issues_count": 5,
+    "forks_count": 187
   },
   {
     "full_name": "armon/erl-bloomd",
@@ -21,6 +21,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 940,
     "open_issues_count": 0,
-    "forks_count": 1022
+    "forks_count": 1025
   }
 ]
