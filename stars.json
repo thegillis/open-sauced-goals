@@ -1,9 +1,9 @@
 [
   {
     "full_name": "openai/codex-universal",
-    "stargazers_count": 777,
+    "stargazers_count": 783,
     "open_issues_count": 0,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "browser-use/awesome-prompts",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "RocketGod-git/HackRF-Treasure-Chest",
-    "stargazers_count": 668,
+    "stargazers_count": 669,
     "open_issues_count": 2,
     "forks_count": 53
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "FiloSottile/age",
-    "stargazers_count": 21143,
+    "stargazers_count": 21176,
     "open_issues_count": 13,
-    "forks_count": 609
+    "forks_count": 607
   },
   {
     "full_name": "str4d/age-plugin-yubikey",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "sagastume/boltx",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 17,
     "forks_count": 15
   },
   {
     "full_name": "brainlid/langchain",
-    "stargazers_count": 1056,
-    "open_issues_count": 54,
+    "stargazers_count": 1058,
+    "open_issues_count": 55,
     "forks_count": 180
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 14073,
-    "open_issues_count": 800,
-    "forks_count": 880
+    "stargazers_count": 14076,
+    "open_issues_count": 806,
+    "forks_count": 879
   },
   {
     "full_name": "folke/tokyonight.nvim",
-    "stargazers_count": 7779,
+    "stargazers_count": 7782,
     "open_issues_count": 16,
-    "forks_count": 517
+    "forks_count": 518
   },
   {
     "full_name": "tompave/fun_with_flags",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 23065,
-    "open_issues_count": 679,
-    "forks_count": 2549
+    "stargazers_count": 23073,
+    "open_issues_count": 669,
+    "forks_count": 2548
   },
   {
     "full_name": "open-sauced/app",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15765,
+    "stargazers_count": 15761,
     "open_issues_count": 3,
-    "forks_count": 2277
+    "forks_count": 2276
   },
   {
     "full_name": "stashpad/bb2stashpad",
@@ -105,7 +105,7 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 954,
     "open_issues_count": 0,
-    "forks_count": 1167
+    "forks_count": 1165
   },
   {
     "full_name": "avdi/dotenv_elixir",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "openflagr/flagr",
-    "stargazers_count": 2569,
-    "open_issues_count": 10,
-    "forks_count": 197
+    "stargazers_count": 2571,
+    "open_issues_count": 11,
+    "forks_count": 198
   },
   {
     "full_name": "armon/bloomd",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 64272,
-    "open_issues_count": 381,
-    "forks_count": 4512
+    "stargazers_count": 64300,
+    "open_issues_count": 365,
+    "forks_count": 4517
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
-    "stargazers_count": 665,
+    "stargazers_count": 666,
     "open_issues_count": 6,
     "forks_count": 102
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 19894,
+    "stargazers_count": 19908,
     "open_issues_count": 202,
-    "forks_count": 9010
+    "forks_count": 9015
   },
   {
     "full_name": "oban-bg/oban",
-    "stargazers_count": 3780,
+    "stargazers_count": 3786,
     "open_issues_count": 4,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "cjbassi/gotop",
-    "stargazers_count": 7419,
+    "stargazers_count": 7418,
     "open_issues_count": 73,
     "forks_count": 477
   },
   {
     "full_name": "FredrikNoren/ungit",
     "stargazers_count": 10568,
-    "open_issues_count": 227,
+    "open_issues_count": 228,
     "forks_count": 642
   }
 ]
