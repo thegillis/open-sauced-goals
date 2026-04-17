@@ -1,7 +1,7 @@
 [
   {
     "full_name": "openai/codex-universal",
-    "stargazers_count": 864,
+    "stargazers_count": 871,
     "open_issues_count": 2,
     "forks_count": 236
   },
@@ -13,57 +13,57 @@
   },
   {
     "full_name": "RocketGod-git/HackRF-Treasure-Chest",
-    "stargazers_count": 698,
+    "stargazers_count": 700,
     "open_issues_count": 2,
     "forks_count": 56
   },
   {
     "full_name": "airbus-cert/minusone",
     "stargazers_count": 93,
-    "open_issues_count": 28,
+    "open_issues_count": 30,
     "forks_count": 7
   },
   {
     "full_name": "FiloSottile/age",
-    "stargazers_count": 21967,
+    "stargazers_count": 21990,
     "open_issues_count": 17,
     "forks_count": 634
   },
   {
     "full_name": "str4d/age-plugin-yubikey",
-    "stargazers_count": 872,
+    "stargazers_count": 876,
     "open_issues_count": 43,
     "forks_count": 44
   },
   {
     "full_name": "sagastume/boltx",
     "stargazers_count": 37,
-    "open_issues_count": 21,
-    "forks_count": 15
+    "open_issues_count": 22,
+    "forks_count": 16
   },
   {
     "full_name": "brainlid/langchain",
     "stargazers_count": 1141,
-    "open_issues_count": 33,
+    "open_issues_count": 35,
     "forks_count": 193
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 14142,
-    "open_issues_count": 795,
+    "stargazers_count": 14146,
+    "open_issues_count": 803,
     "forks_count": 877
   },
   {
     "full_name": "folke/tokyonight.nvim",
-    "stargazers_count": 7958,
+    "stargazers_count": 7965,
     "open_issues_count": 15,
-    "forks_count": 531
+    "forks_count": 533
   },
   {
     "full_name": "tompave/fun_with_flags",
     "stargazers_count": 1156,
     "open_issues_count": 12,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "lulzbot3d/Marlin",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 23211,
-    "open_issues_count": 567,
-    "forks_count": 2562
+    "stargazers_count": 23219,
+    "open_issues_count": 568,
+    "forks_count": 2563
   },
   {
     "full_name": "open-sauced/app",
@@ -87,11 +87,11 @@
     "full_name": "ChristianChiarulli/lvim",
     "stargazers_count": 285,
     "open_issues_count": 9,
-    "forks_count": 87
+    "forks_count": 86
   },
   {
     "full_name": "openai/gpt-3",
-    "stargazers_count": 15749,
+    "stargazers_count": 15751,
     "open_issues_count": 3,
     "forks_count": 2263
   },
@@ -105,7 +105,7 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 952,
     "open_issues_count": 0,
-    "forks_count": 1156
+    "forks_count": 1158
   },
   {
     "full_name": "avdi/dotenv_elixir",
@@ -116,7 +116,7 @@
   {
     "full_name": "openflagr/flagr",
     "stargazers_count": 2585,
-    "open_issues_count": 12,
+    "open_issues_count": 14,
     "forks_count": 200
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 64860,
+    "stargazers_count": 64864,
     "open_issues_count": 0,
     "forks_count": 4689
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
-    "stargazers_count": 697,
+    "stargazers_count": 701,
     "open_issues_count": 6,
-    "forks_count": 109
+    "forks_count": 108
   },
   {
     "full_name": "potatosalad/erlang-jose",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 20031,
+    "stargazers_count": 20036,
     "open_issues_count": 207,
-    "forks_count": 9041
+    "forks_count": 9043
   },
   {
     "full_name": "oban-bg/oban",
-    "stargazers_count": 3874,
-    "open_issues_count": 4,
-    "forks_count": 362
+    "stargazers_count": 3879,
+    "open_issues_count": 1,
+    "forks_count": 363
   },
   {
     "full_name": "cjbassi/gotop",
-    "stargazers_count": 7410,
+    "stargazers_count": 7409,
     "open_issues_count": 73,
     "forks_count": 475
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10570,
+    "stargazers_count": 10572,
     "open_issues_count": 227,
-    "forks_count": 643
+    "forks_count": 644
   }
 ]
