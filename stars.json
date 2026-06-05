@@ -1,9 +1,9 @@
 [
   {
     "full_name": "openai/codex-universal",
-    "stargazers_count": 945,
+    "stargazers_count": 946,
     "open_issues_count": 5,
-    "forks_count": 250
+    "forks_count": 252
   },
   {
     "full_name": "browser-use/awesome-prompts",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "RocketGod-git/HackRF-Treasure-Chest",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 2,
     "forks_count": 56
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "FiloSottile/age",
-    "stargazers_count": 22453,
+    "stargazers_count": 22490,
     "open_issues_count": 24,
-    "forks_count": 648
+    "forks_count": 649
   },
   {
     "full_name": "str4d/age-plugin-yubikey",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "arangodb/arangodb",
-    "stargazers_count": 14184,
-    "open_issues_count": 801,
+    "stargazers_count": 14194,
+    "open_issues_count": 806,
     "forks_count": 886
   },
   {
     "full_name": "folke/tokyonight.nvim",
-    "stargazers_count": 8052,
+    "stargazers_count": 8059,
     "open_issues_count": 19,
     "forks_count": 542
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 23283,
-    "open_issues_count": 610,
-    "forks_count": 2569
+    "stargazers_count": 23287,
+    "open_issues_count": 612,
+    "forks_count": 2571
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 328,
     "forks_count": 227
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 954,
+    "stargazers_count": 953,
     "open_issues_count": 0,
     "forks_count": 1171
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 65007,
+    "stargazers_count": 65010,
     "open_issues_count": 0,
-    "forks_count": 4725
+    "forks_count": 4730
   },
   {
     "full_name": "sethhillbrand/kicad_templates",
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "fchollet/deep-learning-with-python-notebooks",
-    "stargazers_count": 20122,
-    "open_issues_count": 211,
-    "forks_count": 9050
+    "stargazers_count": 20124,
+    "open_issues_count": 212,
+    "forks_count": 9049
   },
   {
     "full_name": "oban-bg/oban",
-    "stargazers_count": 3918,
+    "stargazers_count": 3922,
     "open_issues_count": 1,
     "forks_count": 365
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "FredrikNoren/ungit",
-    "stargazers_count": 10583,
+    "stargazers_count": 10584,
     "open_issues_count": 229,
-    "forks_count": 646
+    "forks_count": 647
   }
 ]
